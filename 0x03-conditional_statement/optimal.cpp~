@@ -1,0 +1,23 @@
+#include <iostream>
+
+using namespace std;
+
+int main(void)
+{
+	int in = 0;
+	string num[10] = {
+		"Greater than 9",
+		"one",
+		"two",
+		"three",
+		"four",
+		"five",
+		"six",
+		"seven",
+		"eight",
+		"nine"
+	};
+
+	
+	return (0);
+}
